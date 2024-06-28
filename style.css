@@ -1,0 +1,28 @@
+#heading{
+    color: crimson;
+    font-size: 50px;
+}
+.bodytext{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+a{
+    color: orange;
+    font-size: 32px;
+}
+ol, ul{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding: 25px;
+}
+h1, h2{
+    text-align: center;
+}
+#intro{
+    box-sizing: border-box;
+    border-style: dashed;
+    border-color: dimgrey;
+    width: 413px;
+    font-style: italic;
+}
+*{
+    background-color: skyblue;
+}
